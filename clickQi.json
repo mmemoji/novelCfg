@@ -5,7 +5,7 @@
       {"title":"永久会员", "price":"68", "oldPrice":"¥108", "sel":"1", "productId":"vip_buy_along"},
       {"title":"12个月", "price":"48", "oldPrice":"¥68", "sel":"0", "productId":"auto_buy_year"},
       {"title":"1个月", "price":"12", "oldPrice":"¥18", "sel":"0", "productId":"auto_buy_month"},
-      {"title":"1个周", "price":"6", "oldPrice":"¥12", "sel":"0", "productId":"auto_buy_week"}
+      {"title":"1个周", "price":"6", "oldPrice":"¥9", "sel":"0", "productId":"auto_buy_week"}
   ],
   "sId":[
     "2",
