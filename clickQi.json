@@ -2,6 +2,7 @@
   "status":1,
   "adStatus":1,
   "abortStatus":1,
+  "evalStatus":1,
   "adVideoId":1,
   "vipCfg":[
       {"title":"永久会员", "price":"68", "oldPrice":"¥108", "sel":"1", "productId":"vip_buy_along"},
