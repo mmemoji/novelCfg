@@ -4,15 +4,18 @@
   "abortStatus":1,
   "evalStatus":2,
   "adVideoId":1,
-  "vipCfg":[
-      {"title":"永久会员", "price":"68", "oldPrice":"¥108", "sel":"1", "productId":"vip_buy_along"},
-      {"title":"12个月", "price":"48", "oldPrice":"¥68", "sel":"0", "productId":"auto_buy_year"},
-      {"title":"1个月", "price":"8", "oldPrice":"¥12", "sel":"0", "productId":"auto_buy_month"}
-  ],
+  "aIds":[1,2,3,4,7,8,4,2,3,4,5,6],
   "sId":[
     "2",
     "4",
     "5",
     "6"
-  ]
+  ],
+  "eeIds":"1234567890",
+  "abIds":["212","213d","21ddq","e21e21e2","321dds","2132dq","e21edsda","e212e","e21e2dw","e21e21e","e21e21e","e21ewqd2","e21dwqdd","e21e21e2","e21ed21ed21"],
+  "tIds":["qq","we","re","sx","es","ad","cf","xf","2d","fs","wd","ve","tf","wd","ds"],
+  "nms":"12",
+  "efs":"23",
+  "eds":"26",
+  "ww":"34"
 }
