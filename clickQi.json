@@ -4,6 +4,9 @@
   "abortStatus":1,
   "evalStatus":1,
   "adVideoId":1,
+  "adVideoFlag":3,
+  "beginVideoFlag":1,
+  "adBannerFlag":1,
   "vipCfg":[
       {"title":"永久会员", "price":"68", "oldPrice":"¥108", "sel":"1", "productId":"vip_buy_along"},
       {"title":"12个月", "price":"48", "oldPrice":"¥68", "sel":"0", "productId":"auto_buy_year"},
