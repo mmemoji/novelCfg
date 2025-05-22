@@ -8,8 +8,7 @@
   "beginVideoFlag":1,
   "adBannerFlag":0,
   "vipCfg":[
-      {"title":"永久会员", "price":"68", "oldPrice":"¥108", "sel":"1", "productId":"vip_buy_along"},
-      {"title":"12个月", "price":"48", "oldPrice":"¥68", "sel":"0", "productId":"auto_buy_year"},
+      {"title":"12个月", "price":"48", "oldPrice":"¥68", "sel":"1", "productId":"auto_buy_year"},
       {"title":"1个月", "price":"10", "oldPrice":"¥18", "sel":"0", "productId":"auto_buy_month"},
       {"title":"1个周", "price":"6", "oldPrice":"¥12", "sel":"0", "productId":"auto_buy_week"}
   ],
